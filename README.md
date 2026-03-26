@@ -1,19 +1,19 @@
-# 🚖 DropMe – Cab Service Invoice Generator
+# DropMe – Cab Service Invoice Generator
 
 ---
 
-## 📌 Project Title
+##  Project Title
 **DropMe – Cab Service Invoice Generator**
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 **DropMe** is a Python-based **command-line cab service invoice generator** developed as part of the **DOC334 – Computer Programming** module.  
 The application calculates ride charges based on distance and cab type, then generates a detailed invoice for the customer.
 
 ---
 
-## 📝 Project Description
+## Project Description
 DropMe simulates a **real-world cab service billing system**.  
 It accepts command-line arguments such as cab type and distance traveled, calculates the total fare using predefined pricing rules, and generates a formatted invoice.
 
@@ -21,7 +21,7 @@ The project is modular and organized using multiple Python files to improve read
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Apply Python modular programming concepts
 - Handle command-line arguments
 - Perform fare calculations based on conditions
@@ -30,7 +30,7 @@ The project is modular and organized using multiple Python files to improve read
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Programming Language:** Python 3.x  
 - **Application Type:** Command Line Interface (CLI)  
 - **Data Handling:** Python modules & variables  
@@ -38,7 +38,7 @@ The project is modular and organized using multiple Python files to improve read
 
 ---
 
-## ⚙️ System Features
+## System Features
 - Cab fare calculation based on distance
 - Support for different cab types
 - Automatic invoice generation
@@ -49,7 +49,7 @@ The project is modular and organized using multiple Python files to improve read
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```text
 DropMe Application/
 │
@@ -67,7 +67,7 @@ DropMe Application/
 │
 └── README.md                # Project documentation
 ```
-## 🚀 How to Run the Project
+## How to Run the Project
 **Prerequisites**
 - Python 3.x installed on your system
 **Steps**
@@ -81,7 +81,7 @@ DropMe Application/
    ```bash
    python dm.py --starting city --distination city
 
-## 📄 Invoice Details
+## Invoice Details
 
 **Each invoice includes:**
 
@@ -91,19 +91,7 @@ DropMe Application/
 - Total fare
 - Date and time of generation
 
-## 🎓 Academic Information
-
-- Module Code: DOC334
-
-- Module Title: Computer Programming
-
-- Assessment Type: Individual Project
-
-- Institution: Informatics Institute of Technology (IIT) Foundation 
-
-- Centre: Colombo
-
-## 👨‍💻 Author
+## Author
 
 D.M.A.O. Dasanayake (Anupama Omiru)
 Email : mr.dasanayake@gmail.com
